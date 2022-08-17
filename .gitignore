@@ -1,4 +1,6 @@
+#ignoring db, log files
 *.db
 *.log
+#ignoring target, bin directories
 target/
 bin/
